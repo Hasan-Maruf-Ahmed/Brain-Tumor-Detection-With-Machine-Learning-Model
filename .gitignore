@@ -1,0 +1,39 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.pkl
+*.h5
+*.pt
+*.pth
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode / PyCharm / IDE configs
+.vscode/
+.idea/
+
+# Environment files
+.env
+*.env
+*.venv/
+.venv/
+env/
+ENV/
+venv/
+pip-log.txt
+
+# Dataset folders
+data/
+dataset/
+datasets/
+MRI Scans/
+
+# Colab cache (if syncing with GDrive)
+*.ipynb_save
+
+# Mac / Windows OS junk
+.DS_Store
+Thumbs.db
