@@ -30,6 +30,7 @@ data/
 dataset/
 datasets/
 MRI Scans/
+Brain Tumor V3/
 
 # Colab cache (if syncing with GDrive)
 *.ipynb_save
