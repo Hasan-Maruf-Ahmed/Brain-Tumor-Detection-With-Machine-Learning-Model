@@ -32,9 +32,12 @@ datasets/
 MRI Scans/
 Brain Tumor V3/
 Brain Tumor V5/
+Brain Tumor V6/
 cropped_images/
 classification_dataset/
-
+classification_dataset_augmented
+masked dataset/
+unet_dataset/
 # Colab cache (if syncing with GDrive)
 *.ipynb_save
 
